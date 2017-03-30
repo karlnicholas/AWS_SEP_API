@@ -1,0 +1,35 @@
+{
+"body-json" : {},
+"params" : {
+"path" : {
+    }
+    ,"querystring" : {
+        "action" : "search", 
+        "phrase" : "xxx" 
+            }
+    ,"header" : {
+    }
+    },
+"stage-variables" : {
+},
+"context" : {
+    "account-id" : "369108289259",
+    "api-id" : "00y5qdom71",
+    "api-key" : "test-invoke-api-key",
+    "authorizer-principal-id" : "",
+    "caller" : "369108289259",
+    "cognito-authentication-provider" : "",
+    "cognito-authentication-type" : "",
+    "cognito-identity-id" : "",
+    "cognito-identity-pool-id" : "",
+    "http-method" : "POST",
+    "stage" : "test-invoke-stage",
+    "source-ip" : "test-invoke-source-ip",
+    "user" : "369108289259",
+    "user-agent" : "Apache-HttpClient/4.5.x (Java/1.8.0_112)",
+    "user-arn" : "arn:aws:iam::369108289259:root",
+    "request-id" : "test-invoke-request",
+    "resource-id" : "njgbzg",
+    "resource-path" : "/quote"
+    }
+}
